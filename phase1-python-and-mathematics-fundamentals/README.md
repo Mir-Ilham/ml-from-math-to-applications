@@ -1,4 +1,4 @@
-# 📘 ML From Math to Deployment - Phase 1
+# 📘 Python and Mathematics Fundamentals - Phase 1
 
 Phase 1 focuses on building the **foundational skills in Python programming and Mathematics** essential for Machine Learning and Deep Learning.
 
@@ -6,7 +6,8 @@ Phase 1 focuses on building the **foundational skills in Python programming and 
 
 ## 🐍 Python Programming
 
-### 1️⃣ Structured Programming
+<details>
+<summary>1️⃣ Structured Programming</summary>
 
 - Input / Output
 - Variables
@@ -17,6 +18,8 @@ Phase 1 focuses on building the **foundational skills in Python programming and 
 - Conditionals
 - Loops
 - Functions
+
+</details>
 
 <details>
 <summary>2️⃣ Core Data Structures & Functional Tools</summary>
