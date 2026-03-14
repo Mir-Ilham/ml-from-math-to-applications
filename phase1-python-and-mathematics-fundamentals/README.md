@@ -128,13 +128,10 @@ Mathematics is essential for **understanding ML algorithms** beyond surface-leve
 ## 🚀 How to Use
 
 1. Start with **Python Programming**, then move to **Mathematics**.
-2. Practice **exercises** after each topic for hands-on learning.
-3. Use this foundation to prepare for **Phase 2: Python Scientific Libraries & EDA**.
+2. Use this foundation to prepare for **Phase 2: Python Scientific Libraries & EDA**.
 
 ---
 
 ## 📚 Recommended Resources
 
 - Python Official Docs: [https://docs.python.org/3/](https://docs.python.org/3/)
-- Mathematics for ML: _“Mathematics for Machine Learning” by Marc Peter Deisenroth_
-- Khan Academy (Algebra, Calculus, Probability, Statistics): [https://www.khanacademy.org/](https://www.khanacademy.org/)
