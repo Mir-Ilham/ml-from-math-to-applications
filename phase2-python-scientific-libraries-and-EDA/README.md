@@ -8,7 +8,6 @@ You will learn how to:
 - Manipulate datasets using **Pandas**
 - Visualize data using **Matplotlib and Seaborn**
 - Perform **Exploratory Data Analysis (EDA)**
-- Build datasets using **APIs and Web Scraping**
 
 ---
 
@@ -20,7 +19,6 @@ You will learn how to:
 | 🐼 Pandas                    | DataFrames, data wrangling, dataset manipulation    |
 | 📊 Data Visualization        | Matplotlib and Seaborn plots                        |
 | 🔎 Exploratory Data Analysis | Data understanding and statistical exploration      |
-| 🛠 Mini Projects             | Dataset creation using APIs and Web Scraping        |
 
 ---
 
@@ -31,7 +29,6 @@ You will learn how to:
 
 ### Core Concepts
 
-- Operations
 - Introduction to Tensors
 - Array Creation Methods
 - Data Types
@@ -78,9 +75,6 @@ You will learn how to:
 - Concat Methods
 - Merge Methods
 - Handling NA Values
-
-### Optional Topics
-
 - `groupby()`
 - `replace()`
 
@@ -97,36 +91,6 @@ You will learn how to:
 - Reading **Excel files**
 - Reading **JSON**
 - Reading data from **SQL databases**
-
-</details>
-
----
-
-# 🛠 Mini Projects
-
-<details>
-<summary>Click to expand mini projects</summary>
-
-### Dataset Creation via API Aggregation
-
-Build datasets by collecting data from public APIs.
-
-Examples:
-
-- Weather data
-- Cryptocurrency data
-- Market data
-
-### Dataset Creation via Web Scraping
-
-Use **BeautifulSoup** to extract structured data from websites.
-
-Skills practiced:
-
-- HTML parsing
-- Data extraction
-- Data cleaning
-- Dataset construction
 
 </details>
 
@@ -156,7 +120,6 @@ Skills practiced:
 <details>
 <summary>Click to expand Seaborn topics</summary>
 
-- Heatmap
 - Correlation Heatmap
 - Joint Plot
 - Pair Plot
@@ -222,8 +185,7 @@ After completing this phase you will be able to:
 - Work efficiently with **NumPy arrays and tensors**
 - Manipulate real datasets using **Pandas**
 - Create **professional data visualizations**
-- Perform **complete Exploratory Data Analysis**
-- Build datasets from **APIs and Web Scraping**
+- Perform **Exploratory Data Analysis**
 
 ---
 
