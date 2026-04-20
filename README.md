@@ -36,16 +36,16 @@ A comprehensive, end-to-end **Machine Learning & Deep Learning curriculum** cove
 
 ---
 
-### Phase 5: Convolutional Neural Networks (CNNs) & OpenCV
+### Phase 5: Convolutional Neural Networks (CNNs) & OpenCV, Recurrent Neural Netoworks (RNNs)
 
-- **CNN:** Theory, backpropagation, data augmentation, pretrained models, filter/feature visualization.
 - **OpenCV:** Basics for image preprocessing.
+- **CNN:** Theory, backpropagation, data augmentation, pretrained models, filter/feature visualization.
+- **RNNs:** RNN, LSTM, GRU, and advanced sequence modeling architectures.
 
 ---
 
-### Phase 6: RNNs, Transformers & NLP
+### Phase 6: Transformers & NLP
 
-- **RNNs:** RNN, LSTM, GRU, and advanced sequence modeling architectures.
 - **Transformers:** Self-attention, encoder-decoder architecture, and transformer components.
 - **NLP Pipelines:** Text preprocessing, word embeddings (Word2Vec), text classification, POS tagging, and real-world NLP projects like Duplicate Question Pairs.
 

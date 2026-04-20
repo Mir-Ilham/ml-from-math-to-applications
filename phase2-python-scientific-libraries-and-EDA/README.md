@@ -91,6 +91,7 @@ You will learn how to:
 - Reading **Excel files**
 - Reading **JSON**
 - Reading data from **SQL databases**
+- Reading data from an **API**
 
 </details>
 
