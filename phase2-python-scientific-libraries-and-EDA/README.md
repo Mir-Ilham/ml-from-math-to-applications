@@ -143,13 +143,13 @@ You will learn how to:
 
 The **7 Preliminary Questions**
 
-1. What are the features in the dataset?
-2. What type of data does each feature contain?
-3. Are there missing values?
-4. Are there outliers?
-5. What are the feature distributions?
-6. Are variables correlated?
-7. Are there patterns affecting modeling?
+1. How big is the data?
+2. What does the data look like?
+3. What is the data type of cols?
+4. Are there any missing values?
+5. How does the data look mathematically?
+6. Are there duplicate values?
+7. How is the correlation between cols?
 
 ### Types of Analysis
 
