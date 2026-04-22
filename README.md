@@ -4,7 +4,7 @@ A comprehensive, end-to-end **Machine Learning & Deep Learning curriculum** cove
 
 ---
 
-## Curriculum Overview
+## 1. Curriculum Overview
 
 ### Phase 1: Python & Mathematics Fundamentals
 
@@ -50,3 +50,52 @@ A comprehensive, end-to-end **Machine Learning & Deep Learning curriculum** cove
 - **NLP Pipelines:** Text preprocessing, word embeddings (Word2Vec), text classification, POS tagging, and real-world NLP projects like Duplicate Question Pairs.
 
 ---
+
+## 2. Setup and Installation
+
+### Prerequisites
+
+- Python 3.11.9
+- Git
+
+### Step-by-step Setup
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Mir-Ilham/ml-from-math-to-applications
+   cd ml-from-math-to-applications
+   ```
+
+2. **Create and activate a virtual environment** (recommended)
+
+   ```bash
+     python -m venv .env
+     .env\Scripts\activate
+   ```
+
+3. **Install all required packages with exact versions**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Launch Jupyter Notebook**
+
+   ```bash
+   jupyter notebook
+   ```
+
+   or
+
+   ```bash
+   python -m notebook
+   ```
+
+## 3. How to Use This Repository
+
+- Navigate to the phase folder of your interest.
+- Open the corresponding .ipynb file.
+- Run cells sequentially
+
+Feel free to explore, fork, or use any part of the code in your own projects (MIT license).
