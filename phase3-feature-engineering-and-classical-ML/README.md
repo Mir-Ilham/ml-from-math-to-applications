@@ -29,6 +29,10 @@ Feature engineering transforms raw data into meaningful inputs for machine learn
   - IQR method
   - Transformation and capping
 
+- **Pipelines and Transformers**
+  - Column Transformer
+  - Sklearn Pipelines
+
 - **Feature Construction**
   - Creating new features from existing ones
   - Domain-driven feature generation
