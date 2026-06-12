@@ -36,7 +36,7 @@ A comprehensive, end-to-end **Machine Learning & Deep Learning curriculum** cove
 
 ---
 
-### Phase 5: Convolutional Neural Networks (CNNs) & OpenCV, Recurrent Neural Netoworks (RNNs)
+### Phase 5: Convolutional Neural Networks (CNNs), OpenCV & Recurrent Neural Networks (RNNs)
 
 - **OpenCV:** Basics for image preprocessing.
 - **CNN:** Theory, backpropagation, data augmentation, pretrained models, filter/feature visualization.
