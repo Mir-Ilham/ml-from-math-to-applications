@@ -39,6 +39,7 @@ httpcore==1.0.9
 httpx==0.28.1
 idna==3.13
 ImageHash==4.3.2
+imbalanced-learn==0.14.2
 ipykernel==7.2.0
 ipython==9.10.1
 ipython_pygments_lexers==1.1.1
@@ -125,6 +126,7 @@ scipy==1.16.3
 seaborn==0.13.2
 Send2Trash==2.1.0
 six==1.17.0
+sklearn-compat==0.1.6
 soupsieve==2.8.3
 stack-data==0.6.3
 statsmodels==0.14.6
@@ -153,4 +155,5 @@ webencodings==0.5.1
 websocket-client==1.9.0
 wordcloud==1.9.6
 wrapt==2.1.2
+xgboost==3.2.0
 ydata-profiling==4.18.1
