@@ -43,54 +43,52 @@ Feature engineering transforms raw data into meaningful inputs for machine learn
 
 - **Imbalanced Data Handling**
   - Oversampling (SMOTE)
-  - Undersampling
+  - Under/Over sampling
   - Class weighting
 
 ---
 
-## 🤖 Essential Machine Learning Algorithms
+## 🤖 Machine Learning Algorithms
 
 Core algorithms required for regression, classification, and clustering tasks.
 
-### 📈 Regression
+### Linear Models
+
+#### Regression
 
 - **Linear Regression**
 - **Gradient Descent**
-- **Other Regression Types**
-  - Polynomial Regression
+- **Regularizing Linear Regression**
   - Ridge Regression
   - Lasso Regression
   - ElasticNet
+- **Polynomial Regression**
 
-### 📊 Classification
+#### Classification
 
 - **Logistic Regression**
 
-### 🔍 Clustering
+### Inference Models
 
-- **K-Means Clustering**
+- **Naive Bayes**
+- **K-Nearest Neighbors (KNN)**
 
----
+### Kernel Based
 
-## ⚙️ Machine Learning Algorithms (Extras)
+- **Support Vector Machines (SVM)**
 
-Additional algorithms to broaden understanding and improve model performance.
+### Tree Based
 
 - **Decision Trees**
 - **Introduction to Ensemble Learning**
-
-### 🌲 Ensemble Methods
-
 - **Random Forest**
 - **AdaBoost**
 - **Gradient Boosting**
 - **XGBoost**
 
-### 📌 Other Algorithms
+### Unsupervised ML (Clustering)
 
-- **K-Nearest Neighbors (KNN)**
-- **Support Vector Machines (SVM)**
-- **Naive Bayes**
+- **K-Means Clustering**
 - **DBSCAN**
 
 ---
