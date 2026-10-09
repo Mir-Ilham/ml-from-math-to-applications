@@ -44,10 +44,9 @@ A comprehensive, end-to-end **Machine Learning & Deep Learning curriculum** cove
 
 ---
 
-### Phase 6: Transformers & NLP
+### Phase 6: Transformer Architecture
 
-- **Transformers:** Self-attention, encoder-decoder architecture, and transformer components.
-- **NLP Pipelines:** Text preprocessing, word embeddings (Word2Vec), text classification, POS tagging, and real-world NLP projects like Duplicate Question Pairs.
+- **Transformers:** Token embedding, positional encoding, attention mechanism, and application areas.
 
 ---
 
